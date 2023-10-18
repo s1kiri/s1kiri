@@ -1,8 +1,8 @@
 # Приветствую всех смотрящих!
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-brightgreen)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Lover-blue)
-![NLP](https://img.shields.io/badge/NLP-Practitioner-orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enjoyer-blue)
+![NLP](https://img.shields.io/badge/NLP-Gigachad-orange)
 
 Меня зовут Кирилл, и я - average ML enjoyer, и в свободное время активно развиваю свои навыки в этой области.
 ## Мой стек:
